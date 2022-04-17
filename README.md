@@ -19,3 +19,6 @@ $ https://github.com/DaniestBP/PFM.git
 $ pip3 install -r Requirements.txt
 
 5. Ejecuta el main.py: python3 main.py
+
+
+### nota: Quería encriptar las passwords de los "clientes", por supuesto llevar el proyecto a Blueprints y subirlo a pythonanywhere, pero no calculé la carga de trabajo debidamente. Dejé estas 3 mejoras para el final pero no me ha sido posible cerrarlas. Aún así yo lo he disfrutado y quedé satisfecho. Espero que te guste. 
