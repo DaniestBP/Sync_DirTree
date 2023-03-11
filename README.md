@@ -13,7 +13,7 @@ $ https://github.com/DaniestBP/Sync_DirTree.git
 
 2. Create a Virtual Enviroment to run the script: python3 -m venv .venv
 
-3. Activate env: source venv/bin/activate (in Linux) / source venv/Scripts/activate (in Windows)
+3. Activate env: source .venv/bin/activate (in Linux) / source venv/Scripts/activate (in Windows)
 
 4. Install requirements: 
 
